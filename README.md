@@ -27,7 +27,7 @@ Para visualizar exemplos testados de todas as rotas da API, você pode importar 
 - Cache Image
 - Offline first
 - Nodejs as backend
-
+- Myltiane Alves
 
 ## Features
 
